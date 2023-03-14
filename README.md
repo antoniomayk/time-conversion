@@ -7,11 +7,11 @@ Given a time in $12$[-hour AM/PM format](https://en.wikipedia.org/wiki/12-hour_c
 
 ### Example
 
-$s = \text{\textquoteleft} 12:01:00PM \text{\textquoteright}$
+$s = `12:01:00PM'$
 
 Return '12:01:00'.
 
-$s = \text{\textquoteleft} 12:01:00AM \text{\textquoteright}$
+$s = `12:01:00AM'$
 
 Return '00:01:00'.
 
